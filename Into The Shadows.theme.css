@@ -1,0 +1,43 @@
+/**
+* @name Into The Shadows
+* @version 1.0
+* @description A Shadow Based Theme An edited version of FrostedGlass theme
+* @author WoahBread
+*/
+@import url("https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css");
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://fonts.googleapis.com/css2?family=Grandstander');
+:root {
+--background-image: url('https://cdn.discordapp.com/attachments/849343156470415413/872972899663904788/giphy_1.gif');
+--background-image-blur: 3px;
+--background-image-size: cover;
+--background-image-position: center;
+--popout-modal-image: url('https://cdn.discordapp.com/attachments/849343156470415413/872972899663904788/giphy_1.gif');
+--popout-modal-blur: 3px;
+--popout-modal-size: cover;
+--popout-modal-position: center;
+--home-button-mage: url('https://cdn.discordapp.com/attachments/849343156470415413/872973804794708048/download_1.jpg');
+--home-button-size: cover;
+--home-button-position: center;
+--serverlist-brightness: 1;
+--left-brightness: 0.7;
+--middle-brightness: 0.7;
+--right-brightness: 0.5;
+--popout-modal-brightness: 0.7;
+--gradient-primary: 103,58,183;
+--gradient-secondary: 63,81,181;
+--gradient-direction: 320deg;
+--tint-colour: 255,51,159;
+--tint-brightness: 0;
+--window-padding: 0px;
+--window-roundness: 0px;
+--scrollbar-colour: #ffffff0d;
+--link-colour: #00b0f4;
+--show-gift-gif-buttons: none;
+--font: 'Grandstander';
+--update-notice-1: none;
+--columns: 2;
+--guildsize: 40;
+--guildgap: 5;
+--aligndms: 0;
+}
